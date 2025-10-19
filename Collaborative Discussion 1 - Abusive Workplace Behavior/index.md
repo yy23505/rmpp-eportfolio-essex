@@ -7,7 +7,7 @@ title: Collaborative Discussion 1 – Abusive Workplace Behavior
 Explores **abusive workplace behaviour** in computing contexts, ethics codes, and organisational responsibilities.
 
 ## Evidence
-- (Link artefacts from `assets/docs/` or `assets/img/`)
+- (Link artefacts from `{{ site.baseurl }}/assets/docs/...` or images from `{{ site.baseurl }}/assets/img/...`)
 
 ## Reflection (Gibbs)
 **Description:** What I did and why.  

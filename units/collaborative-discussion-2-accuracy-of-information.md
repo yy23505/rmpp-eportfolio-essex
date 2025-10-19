@@ -13,17 +13,17 @@ _Module: Research Methods & Professional Practice_
 
 ## Discussion Topic – Case Study: Accuracy of Information
 
-Abi is a researcher at an institute and also a statistical programmer. Abi has received a project from a manufacturer to review the nutritional value of a new cereal, *Whizzz*. Having collected the necessary data, he now needs to perform the appropriate analyses and print the reports for him to send to the manufacturer.  
+Abi is a researcher at an institute and also a statistical programmer. Abi has received a project from a manufacturer to review the nutritional value of a new cereal, *Whizzz*. Having collected the necessary data, Abi now needs to perform the appropriate analyses and print the reports to send to the manufacturer.  
 
-Unfortunately, the data Abi has collected seems to refute the claim that Whizzz is nutritious, and, in fact, they may indicate that Whizzz is harmful. Abi also realises that some other correlations could be performed that would cast Whizzz in a more favourable light. “After all,” he thinks, “I can use statistics to support either side of any issue.”
+Unfortunately, the data Abi has collected seems to refute the claim that Whizzz is nutritious, and, in fact, they may indicate that Whizzz is harmful. Abi also realises that some other correlations could be performed that would cast Whizzz in a more favourable light. “After all,” Abi thinks, “I can use statistics to support either side of any issue.”
 
 ### Ethical Concerns
 
-- Clearly, if Abi changed data values in this study he would be acting unethically.  
-- But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?  
+- Clearly, if Abi changed data values in this study, Abi would be acting unethically.  
+- But is it any more ethical for Abi to suggest analysing correct data in a way that supports two or more different conclusions?  
 - Is Abi obligated to present both the positive and the negative analyses?  
 - Is Abi responsible for the use to which others put his program results?  
-- If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?
+- If Abi does put forward both sets of results to the manufacturer, Abi suspects that they will publicise only the positive ones. What are the other courses of action?
 
 ---
 
@@ -37,9 +37,9 @@ Abi has a moral and professional obligation to present all findings, including n
 
 Legally, providing misleading nutritional claims could breach regulations such as the **UK Consumer Protection from Unfair Trading Regulations (2008)** and the **EU General Food Law Regulation (EC No. 178/2002)**, which emphasise public safety and accurate product information.  
 
-If Abi suspects the manufacturer may publish only the favourable results, he could ensure transparency by including a detailed methodology and limitations section, reporting to an ethics committee, or seeking whistleblowing protection under the **Public Interest Disclosure Act 1998** (Lewis, 2021).  
+If Abi suspects the manufacturer may publish only the favourable results, Abi could ensure transparency by including a detailed methodology and limitations section, reporting to an ethics committee, or seeking whistleblowing protection under the **Public Interest Disclosure Act 1998** (Lewis, 2021).  
 
-Ultimately, Abi’s responsibility extends beyond data analysis — he must prevent misuse of findings and uphold public trust in scientific research.
+Ultimately, Abi’s responsibility extends beyond data analysis — Abi must prevent misuse of findings and uphold public trust in scientific research.
 
 ---
 

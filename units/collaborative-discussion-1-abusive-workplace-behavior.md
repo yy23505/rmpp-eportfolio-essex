@@ -13,8 +13,6 @@ _Module: Research Methods & Professional Practice_
 
 ## e-Portfolio Activity: Collaborative Learning Discussion 1
 
-### Initial Post
-
 I have selected the ACM case study **“Abusive Workplace Behavior.”**  
 In this case, Max, a senior technical lead, consistently shouts at team members, withholds credit by removing their names from publications, and creates a hostile environment. When Diane reports this to management, she is dismissed and told to “grow up,” demonstrating a failure of ethical leadership and professional responsibility.
 

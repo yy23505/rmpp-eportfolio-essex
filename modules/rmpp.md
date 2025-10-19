@@ -3,10 +3,18 @@ layout: page
 title: Module Overview
 ---
 
-## RMPP Overview
+# Research Methods & Professional Practice (RMPP)
 
-- **Module:** Research Methods & Professional Practice (RMPP)
-- **Programme:** MSc Computer Science (University of Essex Online)
-- **Purpose:** Develop skills in research design, literature review, data collection/analysis, professional/ethical practice, and communication.
+**Programme:** MSc Computer Science (University of Essex Online)  
+**Aim:** Develop understanding of research design, ethical/professional practice, and scholarly communication.
 
-> Note: This is my personal e-portfolio demonstrating learning and outcomes. It is not official university documentation.
+## Objectives
+- Formulate valid research questions and designs  
+- Conduct rigorous literature reviews  
+- Apply ethical frameworks and data governance  
+- Analyse quantitative/qualitative data  
+- Communicate findings effectively
+
+## About This Portfolio
+This e-portfolio provides artefacts and reflections that demonstrate learning and achievement across module activities.
+

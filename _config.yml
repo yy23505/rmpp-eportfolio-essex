@@ -1,8 +1,11 @@
-title: "Research Methods & Professional Practice Module – E-Portfolio"
-description: "MSc Computer Science, UoE Online"
-theme: "jekyll-theme-midnight"
-baseurl: "yy23505.github.io/rmpp-eportfolio-essex"     
+title: "Research Methods & Professional Practice – E-Portfolio"
+description: "MSc Computer Science (University of Essex Online) – Evidence, reflections, and outcomes"
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# IMPORTANT for project sites published at /<repo-name>
 url: "https://yy23505.github.io"
+baseurl: "/rmpp-eportfolio-essex"
 
 # Navigation (Header Pages)
 header_pages:
@@ -16,8 +19,7 @@ header_pages:
   - "Research Proposal/index.md"
   - "Statistical Worksheet Submissions/index.md"
 
-# Optional settings
 show_downloads: false
 github:
   is_project_page: true
-  repository_url: "https://github.com/<your-username>/rmpp-eportfolio-essex"
+  repository_url: "https://github.com/yy23505/rmpp-eportfolio-essex"

@@ -4,7 +4,7 @@
 Live site: https://yy23505.github.io/rmpp-eportfolio-essex/
 
 ## What this is
-My e-portfolio for **Research Methods & Professional Practice (RMPP)**. It showcases evidence, reflections, and alignment to module learning outcomes (ILOs).
+My e-portfolio for **Research Methods & Professional Practice (RMPP)**. It showcases evidence, reflections, and alignment to module learning outcomes.
 
 ## Structure
 - `index.md` — Home page
@@ -24,4 +24,3 @@ My e-portfolio for **Research Methods & Professional Practice (RMPP)**. It showc
 Settings → Pages → Deploy from branch → `main` (root).  
 Theme is set via `_config.yml`: `jekyll-theme-slate`.
 
-© {{ site.time | date: "%Y" }} yy23505

@@ -3,7 +3,7 @@
 ## Overview
 
 This unit focused on **Inferential Statistics** and the practical application of hypothesis testing techniques using real-world datasets.  
-The workshop introduced methods for drawing conclusions about populations based on sample data, covering key concepts such as:
+The workshop introduced methods for drawing conclusions about populations based on sample data, covering key concepts such as
 - Null and alternative hypotheses  
 - Significance levels and *p*-values  
 - Confidence intervals  

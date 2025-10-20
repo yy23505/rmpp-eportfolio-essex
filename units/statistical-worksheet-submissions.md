@@ -28,3 +28,13 @@ This spreadsheet includes my completed calculations, results, and interpretation
 
 [Download Summary of Answers (Excel)]({{ '/assets/files/statistical-worksheet-answers.xlsx' | relative_url }})
 
+---
+
+## Reflection
+
+Completing this worksheet deepened my understanding of the link between statistical concepts and applied data interpretation.  
+By running hypothesis tests and exploring significance thresholds, I strengthened my ability to distinguish between statistical and practical significance.  
+Using spreadsheet tools reinforced accuracy in computation and documentation, while interpreting results in context improved my confidence in data-informed reasoning.  
+This task also highlighted the importance of transparency—clearly showing all stages of analysis ensures replicability and integrity in quantitative research.
+
+

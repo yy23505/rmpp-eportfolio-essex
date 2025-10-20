@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reflective Activity 1 — Ethics in Computing"
+title: "Reflective Activity — Ethics in Computing"
 permalink: /units/reflective-activity-1-ethics-in-computing/
 ---
 

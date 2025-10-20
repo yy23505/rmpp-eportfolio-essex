@@ -4,12 +4,12 @@
 
 <div class="downloads-box">
 
-### 📊 Inferential Statistics Worksheet  
-This Excel worksheet contains the practical data and exercises used for the Inferential Statistics activity.  
-👉 [Download Worksheet (Excel)]({{ '/assets/files/inferential-statistics-worksheet.xlsx' | relative_url }})
+### 📘 Unit 7 – Hypothesis Testing Worksheet (Accessible)
+This is the original worksheet used for the Inferential Statistics Workshop.  
+👉 [Download Worksheet (PDF)]({{ '/assets/files/Unit%207%20-%20Hypothesis%20Testing%20Worksheet%20%5BAccessible%5D.pdf' | relative_url }})
 
-### 📘 Summary of Answers  
-This document provides my completed responses and explanations for each question.  
-👉 [Download Summary of Answers (PDF)]({{ '/assets/files/inferential-statistics-summary.pdf' | relative_url }})
+### 📊 Unit 7 – Worksheet Answers
+This Excel file contains my completed answers and explanations for the tasks in the workshop.  
+👉 [Download Worksheet Answers (Excel)]({{ '/assets/files/Unit7_Worksheet%20Answers.xlsx' | relative_url }})
 
 </div>

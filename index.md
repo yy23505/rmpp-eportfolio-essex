@@ -15,4 +15,6 @@ Welcome! This site curates my work for the **RMPP** module (MSc Computer Science
 - [Inferential Statistics Workshop]({{ "/units/inferential-statistics-workshop/" | relative_url }})
 - [Research Proposal (video + transcript)]({{ "/units/research-proposal/" | relative_url }})
 - [Statistical Worksheet Submissions]({{ "/units/statistical-worksheet-submissions/" | relative_url }})
+- [Reflective Piece – Research Methods and Professional Practice](units/reflective-piece/)
+
 

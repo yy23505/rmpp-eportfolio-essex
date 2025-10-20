@@ -32,6 +32,8 @@ This is the original worksheet used for the workshop.
 ### Unit 7 – Worksheet Answers
 This Excel file contains my completed answers and explanations.
 
+[Download Worksheet Answers (Excel)]({{ '/assets/files/unit7-worksheet-answers.xlsx' | relative_url }})
+
 ---
 ## Reflection
 
@@ -39,5 +41,3 @@ Completing this workshop strengthened my understanding of inferential reasoning 
 I learned to interpret *p*-values critically, verify assumptions before testing, and communicate quantitative results in clear, evidence-based language.  
 This activity directly supported my ability to evaluate research findings in later assignments.
 
-
-[Download Worksheet Answers (Excel)]({{ '/assets/files/unit7-worksheet-answers.xlsx' | relative_url }})

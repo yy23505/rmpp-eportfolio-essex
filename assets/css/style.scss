@@ -2,286 +2,67 @@
 ---
 @import "{{ site.theme }}";  // loads jekyll-theme-midnight
 
-/* ---------------------------
-   Global look & feel
-----------------------------*/
-
-html, body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #0e1117;
-  color: #f0f3fa;
-}
-
-.wrap {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 1rem 1.25rem;
-}
-
-main.wrap {
-  padding-top: 2rem;
-  padding-bottom: 3rem;
-}
-
-/* Make normal text still readable on dark bg */
-p, li {
-  color: #d9deee;
-}
-h1, h2, h3, h4, h5 {
-  color: #ffffff;
-  line-height: 1.3;
-  font-weight: 600;
-}
-
-/* Links */
-a {
-  color: #4ac6ff;
-  text-decoration: none;
-  text-underline-offset: 3px;
-}
-a:hover,
-a:focus {
-  color: #8be0ff;
-  text-decoration: underline;
-}
-
-/* ---------------------------
-   Top Nav / Header
-----------------------------*/
-
-.site-header {
-  background-color: #0a0d12;
-  border-bottom: 1px solid rgba(255,255,255,0.07);
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-}
-
-.topbar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.brand .site-title {
-  color: #fff;
-  font-weight: 600;
-  font-size: 1.05rem;
-  margin: 0;
-  display: inline-block;
-}
-.brand .site-title:hover {
-  text-decoration: none;
-  color: #8be0ff;
-}
-
-.site-subtitle {
-  font-size: 0.8rem;
-  color: #8a94b8;
-  margin-top: 0.15rem;
-  max-width: 30ch;
-  line-height: 1.4;
-}
-
-/* nav area (Home + dropdown) */
-.main-nav {
-  display: flex;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  gap: 1rem;
-  position: relative;
-}
-
-.nav-link {
-  background-color: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 8px;
-  padding: .5rem .75rem;
-  font-size: .9rem;
-  line-height: 1.2rem;
-  color: #f0f3fa;
-  cursor: pointer;
-}
-.nav-link:hover,
-.nav-link:focus {
-  background-color: rgba(74,198,255,0.12);
-  border-color: rgba(74,198,255,0.5);
-  color: #4ac6ff;
-  text-decoration: none;
-}
-
-/* dropdown */
-.nav-dropdown {
-  position: relative;
-  display: inline-block;
-}
-.dropdown-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: .4rem;
-}
-
-/* panel */
-.dropdown-panel {
-  position: absolute;
-  top: calc(100% + .5rem);
-  right: 0;
-  min-width: 260px;
-  background-color: #0f1624;
-  border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 10px;
-  box-shadow: 0 24px 48px rgba(0,0,0,.8);
-  padding: .5rem 0;
-  display: none; /* hidden by default */
-  z-index: 1001;
-}
-
-.nav-dropdown:hover .dropdown-panel,
-.nav-dropdown:focus-within .dropdown-panel {
-  display: block;
-}
-
-.dropdown-panel a {
-  display: block;
-  padding: .6rem .9rem;
-  font-size: .85rem;
-  line-height: 1.3;
-  color: #d9deee;
-  text-decoration: none;
-  border-left: 3px solid transparent;
-}
-.dropdown-panel a:hover {
-  background-color: rgba(74,198,255,0.07);
-  border-left-color: #4ac6ff;
-  color: #fff;
-  text-decoration: none;
-}
-
-/* ---------------------------
-   Hero section on homepage
-----------------------------*/
+/* ------------------------------- */
+/* HERO SECTION                    */
+/* ------------------------------- */
 
 .hero-landing {
   position: relative;
-  border-radius: 16px;
   overflow: hidden;
-  min-height: 260px;
-  display: flex;
-  align-items: flex-end;
+  border-radius: 12px;
   margin-bottom: 2rem;
-  background-color: #1a2237;
-  box-shadow: 0 28px 60px rgba(0,0,0,.8);
-  border: 1px solid rgba(255,255,255,0.07);
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.4);
 }
 
 .hero-bg {
-  position: absolute;
-  inset: 0;
   width: 100%;
-  height: 100%;
+  height: 350px;
   object-fit: cover;
-  filter: brightness(.4) saturate(1.2) blur(1px);
+  display: block;
+  filter: brightness(55%) saturate(120%);
+  border-radius: 12px;
 }
 
 .hero-overlay {
-  position: relative;
-  padding: 2rem 1.5rem;
-  max-width: 700px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   color: #fff;
-  z-index: 1;
+  text-align: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.75));
+  border-radius: 12px;
 }
 
 .hero-overlay h1 {
-  font-size: clamp(1.4rem, 2vw, 2rem);
-  color: #fff;
-  margin: 0 0 .5rem;
-  font-weight: 600;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.5px;
+  text-shadow: 0 3px 8px rgba(0, 0, 0, 0.6);
 }
 
 .hero-overlay p {
-  margin: .3rem 0;
-  color: #d9deee;
-  font-size: .95rem;
-  line-height: 1.5;
+  max-width: 700px;
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+  color: #e0e6ff;
 }
 
 .hero-desc {
-  color: #8a94b8;
-  font-size: .85rem;
-  max-width: 55ch;
+  font-size: 1rem;
   line-height: 1.5;
-  margin-top: .5rem;
+  color: #bcd0ff;
+  margin-top: 0.5rem;
 }
 
-/* ---------------------------
-   Section cards / lists / banners
-----------------------------*/
-
-/* reuse your unit-banner images in pages */
-.unit-banner {
-  display: block;
-  width: 100%;
-  border-radius: 12px;
-  margin: .5rem 0 1rem;
-  box-shadow: 0 24px 48px rgba(0,0,0,.8);
-  border: 1px solid rgba(255,255,255,0.07);
-}
-
-/* documents / downloads */
-.downloads-box a,
-.download-card a,
-.btn {
-  display: inline-block;
-  background-color: rgba(74,198,255,0.12);
-  border: 1px solid rgba(74,198,255,0.4);
-  color: #4ac6ff;
-  font-weight: 600;
-  padding: .6rem .9rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-size: .9rem;
-}
-.downloads-box a:hover,
-.download-card a:hover,
-.btn:hover {
-  background-color: rgba(74,198,255,0.2);
-  text-decoration: none;
-  color: #8be0ff;
-}
-
-/* feedback / transcript boxes */
-.tutor-feedback,
-.transcript-box {
-  background-color: rgba(255,255,255,0.03);
-  border-left: 4px solid #4ac6ff;
-  border-radius: 10px;
-  padding: 1rem 1.25rem;
-  margin: 1.5rem 0;
-  box-shadow: 0 16px 40px rgba(0,0,0,.8);
-  color: #d9deee;
-}
-.tutor-feedback h2,
-.tutor-feedback h3,
-.transcript-box h2,
-.transcript-box h3 {
-  color: #fff;
-}
-
-/* footer */
-.site-footer {
-  border-top: 1px solid rgba(255,255,255,0.07);
-  color: #8a94b8;
-  font-size: .8rem;
-  margin-top: 4rem;
-  padding-top: 1.5rem;
-  padding-bottom: 2rem;
-  text-align: center;
-}
-.site-footer p {
-  color: #8a94b8;
-  margin: 0;
-  line-height: 1.4;
+.hero-landing:hover .hero-bg {
+  filter: brightness(65%) saturate(130%);
+  transition: all 0.4s ease-in-out;
 }

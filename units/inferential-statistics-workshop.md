@@ -5,7 +5,7 @@ permalink: /units/inferential-statistics-workshop/
 ---
 
 # Inferential Statistics Workshop
-![Banner: inferential statistics and data analysis]({{ "/assets/images/stats-image.webp" | relative_url }}){: .unit-banner }
+![Banner: inferential statistics and data analysis]({{ '/assets/images/stats-image.webp' | relative_url }}){: .unit-banner }
 
 ## Overview
 

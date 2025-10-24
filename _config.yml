@@ -2,7 +2,7 @@ title: "Research Methods & Professional Practice — E-Portfolio"
 description: "MSc Computer Science (University of Essex Online)"
 url: "https://yy23505.github.io"     # your GitHub Pages root
 baseurl: "/rmpp-eportfolio-essex"    # your repository name, including the leading slash
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 markdown: kramdown
 kramdown:
   input: GFM

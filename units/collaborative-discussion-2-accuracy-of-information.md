@@ -5,6 +5,7 @@ permalink: /units/collaborative-discussion-2-accuracy-of-information/
 ---
 
 # Collaborative Discussion 2 — Case Study on Accuracy of Information
+![Banner: accuracy of information in computing research]({{ "/assets/images/accuracy-info.jpeg" | relative_url }}){: .unit-banner }
 
 _Programme: MSc Computer Science (University of Essex Online)_  
 _Module: Research Methods & Professional Practice_

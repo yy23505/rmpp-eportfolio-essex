@@ -5,6 +5,7 @@ permalink: /units/statistical-worksheet-submissions/
 ---
 
 # Statistical Worksheet Submissions
+![Banner: statistical worksheets and data submission]({{ "/assets/images/statistical-worksheet.webp" | relative_url }}){: .unit-banner }
 
 ## Overview
 

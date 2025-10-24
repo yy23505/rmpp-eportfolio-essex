@@ -4,11 +4,13 @@ title: Home
 ---
 
 <div class="hero-landing">
-  <img src="{{ '/assets/images/cyber-data.jpg' | relative_url }}" alt="Technology visual background" class="hero-bg">
+  <img src="{{ '/assets/images/cyber-data.jpg' | relative_url }}" alt="Abstract data visual background" class="hero-bg">
   <div class="hero-overlay">
-    <h1>Research Methods & Professional Practice</h1>
+    <h1>Research Methods &amp; Professional Practice</h1>
     <p>MSc Computer Science · University of Essex Online</p>
-    <p class="hero-desc">This e-portfolio showcases ethical analysis, research design, statistical work, and professional reflection completed during the module.</p>
+    <p class="hero-desc">
+      This e-portfolio presents work from across the module, including ethical analysis, academic writing, quantitative methods, research design, and reflective professional practice.
+    </p>
   </div>
 </div>
 

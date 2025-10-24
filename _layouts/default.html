@@ -7,24 +7,36 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
-  <header class="site-header">
-    <div class="wrap">
-      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
-      <nav class="site-nav">
-        <a href="{{ "/" | relative_url }}">Home</a>
-        <a href="{{ "/units/collaborative-discussion-1-abusive-workplace-behavior/" | relative_url }}">CD1</a>
-        <a href="{{ "/units/reflective-activity-1-ethics-in-computing/" | relative_url }}">Reflection 1</a>
-        <a href="{{ "/units/literature-review/" | relative_url }}">Literature Review</a>
-        <a href="{{ "/units/collaborative-discussion-2-accuracy-of-information/" | relative_url }}">CD2</a>
-        <a href="{{ "/units/inferential-statistics-workshop/" | relative_url }}">Stats Workshop</a>
-        <a href="{{ "/units/research-proposal/" | relative_url }}">Proposal</a>
-        <a href="{{ "/units/statistical-worksheet-submissions/" | relative_url }}">Worksheet Submissions</a>
-        <a href="{{ "/units/reflective-piece/" | relative_url }}">Reflective Piece</a>
-      </nav>
+<header class="site-header">
+  <div class="topbar wrap">
+    <div class="brand">
+      <a class="site-title" href="{{ "/" | relative_url }}">
+        {{ site.title }}
+      </a>
+      <div class="site-subtitle">MSc Computer Science · Research Methods & Professional Practice</div>
     </div>
-  </header>
 
-  <main class="wrap">
+    <nav class="main-nav">
+      <a class="nav-link" href="{{ "/" | relative_url }}">Home</a>
+
+      <div class="nav-dropdown">
+        <button class="nav-link dropdown-toggle">Units ▾</button>
+        <div class="dropdown-panel">
+          <a href="{{ "/units/collaborative-discussion-1-abusive-workplace-behavior/" | relative_url }}">CD1: Abusive Workplace Behaviour</a>
+          <a href="{{ "/units/reflective-activity-1-ethics-in-computing/" | relative_url }}">Ethics in Computing</a>
+          <a href="{{ "/units/literature-review/" | relative_url }}">Literature Review</a>
+          <a href="{{ "/units/collaborative-discussion-2-accuracy-of-information/" | relative_url }}">CD2: Accuracy of Information</a>
+          <a href="{{ "/units/inferential-statistics-workshop/" | relative_url }}">Inferential Statistics Workshop</a>
+          <a href="{{ "/units/statistical-worksheet-submissions/" | relative_url }}">Worksheet Submissions</a>
+          <a href="{{ "/units/research-proposal/" | relative_url }}">Research Proposal</a>
+          <a href="{{ "/units/reflective-piece/" | relative_url }}">Reflective Reflection</a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
     {{ content }}
   </main>
 
@@ -32,4 +44,4 @@
     <p>© {{ site.time | date: "%Y" }} · {{ site.title }}</p>
   </footer>
 </body>
-</html>
+</html>  

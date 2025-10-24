@@ -5,6 +5,7 @@ permalink: /units/reflective-activity-1-ethics-in-computing/
 ---
 
 # Reflective Activity 1 — Ethics in Computing in the Age of Generative AI
+![Banner: cyber security and responsible computing]({{ "/assets/images/cyber-security.jpg" | relative_url }}){: .unit-banner }
 
 _Programme: MSc Computer Science (University of Essex Online)_  
 _Module: Research Methods & Professional Practice_

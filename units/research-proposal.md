@@ -8,6 +8,8 @@
 
 <div class="transcript-box">
 
+This section contains the full transcript of my research proposal presentation video, submitted as part of the Research Methods and Professional Practice module assessment. It evidences my ability to communicate research aims, justify methodology, address ethics, and plan delivery.
+
 ### Slide 1: Title  
 Hello, and welcome. Today, I’ll be presenting my research proposal, “The Impact of Modern Technology on Student Learning Experiences in Higher Education.”  
 This presentation will cover the research problem, significance, aims and objectives, key literature, methodology, ethics, artefact development, and timeline.

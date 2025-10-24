@@ -324,6 +324,32 @@ a:focus {
   color: #8be0ff;
   text-decoration: none;
 }
+/* Transcript / evidence panel */
+.transcript-box {
+  background-color: rgba(255,255,255,0.03);
+  border-left: 4px solid #4ac6ff;
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  box-shadow: 0 16px 40px rgba(0,0,0,.8);
+  color: #d9deee;
+  line-height: 1.6;
+}
+
+.transcript-box h3,
+.transcript-box h4 {
+  color: #ffffff;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.transcript-box p {
+  margin: 0 0 1rem 0;
+  color: #d9deee;
+  font-size: .95rem;
+}
 
 /* ---------------------------------
    FOOTER

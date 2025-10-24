@@ -5,6 +5,7 @@ permalink: /units/collaborative-discussion-1-abusive-workplace-behavior/
 ---
 
 # Collaborative Discussion 1 — Abusive Workplace Behavior
+![Banner: workplace behaviour and ethics]({{ "/assets/images/bullying-definition-in-the-workplace.jpg" | relative_url }}){: .unit-banner }
 
 _Programme: MSc Computer Science (University of Essex Online)_  
 _Module: Research Methods & Professional Practice_

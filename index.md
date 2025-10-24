@@ -23,7 +23,7 @@ title: Home
 - [Literature Review]({{ "/units/literature-review/" | relative_url }})
 - [Collaborative Discussion 2 — Case Study on Accuracy of Information]({{ "/units/collaborative-discussion-2-accuracy-of-information/" | relative_url }})
 - [Inferential Statistics Workshop]({{ "/units/inferential-statistics-workshop/" | relative_url }})
-- [Research Proposal (video + transcript)]({{ "/units/research-proposal/" | relative_url }})
+- [Research Proposal (video)]({{ "/units/research-proposal/" | relative_url }})
 - [Statistical Worksheet Submissions]({{ "/units/statistical-worksheet-submissions/" | relative_url }})
 - [Reflective Piece – Research Methods and Professional Practice](units/reflective-piece/)
 

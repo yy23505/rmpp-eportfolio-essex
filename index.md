@@ -9,7 +9,9 @@ title: Home
     <h1>Research Methods &amp; Professional Practice</h1>
     <p>MSc Computer Science · University of Essex Online</p>
     <p class="hero-desc">
-      This e-portfolio presents work from across the module, including ethical analysis, academic writing, quantitative methods, research design, and reflective professional practice.
+      This e-portfolio presents my assessed work for the RMPP module,
+      including ethical analysis, collaborative discussions, statistical investigation,
+      research design, and reflective professional development.
     </p>
   </div>
 </div>

@@ -3,11 +3,17 @@ layout: default
 title: Home
 ---
 
-# Research Methods & Professional Practice — E-Portfolio
-
-Welcome! This site curates my work for the **RMPP** module (MSc Computer Science, University of Essex Online).
+<div class="hero-landing">
+  <img src="{{ '/assets/images/cyber-data.jpg' | relative_url }}" alt="Technology visual background" class="hero-bg">
+  <div class="hero-overlay">
+    <h1>Research Methods & Professional Practice</h1>
+    <p>MSc Computer Science · University of Essex Online</p>
+    <p class="hero-desc">This e-portfolio showcases ethical analysis, research design, statistical work, and professional reflection completed during the module.</p>
+  </div>
+</div>
 
 ## Units
+
 - [Collaborative Discussion 1 — Abusive Workplace Behavior]({{ "/units/collaborative-discussion-1-abusive-workplace-behavior/" | relative_url }})
 - [Reflective Activity — Ethics in Computing]({{ "/units/reflective-activity-1-ethics-in-computing/" | relative_url }})
 - [Literature Review]({{ "/units/literature-review/" | relative_url }})

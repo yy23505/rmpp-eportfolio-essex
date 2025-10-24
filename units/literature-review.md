@@ -5,6 +5,8 @@ permalink: /units/literature-review/
 ---
 
 # Literature Review  
+![Banner: research and literature review process]({{ "/assets/images/literature-review.jpg" | relative_url }}){: .unit-banner }
+
 ### The Impact of Modern Technology on Student Learning Experiences in Higher Education
 
 _Programme: MSc Computer Science (University of Essex Online)_  
